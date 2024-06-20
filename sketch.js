@@ -18,8 +18,8 @@ function setup() {
   textSize(20);
   
   buttonY = height / 2 - buttonHeight / 2;
-  button1X = width - 210;
-  button2X = width - 110;
+  button1X = width - 250;
+  button2X = width - 150;
 
   let rectX = width / 2 - 602 / 2;
   let rectY = height / 2 - 102 / 2;
